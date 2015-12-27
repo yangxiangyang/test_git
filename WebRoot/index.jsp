@@ -21,6 +21,14 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my JSP page. <br>
+    
+    <div>
+    	1.测试远程推送到GitHub网站上
+    	2.测试从GitHub上下载下来
+    	3.测试推送送到指定用户IP
+    	4.测试协同工作
+    </div>
+    
+    
   </body>
 </html>
